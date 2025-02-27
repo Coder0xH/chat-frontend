@@ -80,3 +80,6 @@ buildNumber.properties
 ### Environment Files ###
 .env
 **/dev-ops/**/.env
+
+
+node_modules/
